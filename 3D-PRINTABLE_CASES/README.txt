@@ -10,12 +10,12 @@ File Case_Models.pdf lists the available variants.
 
 You may also create your own variants by tinkering with the Openscad source file.
 
-The STL format is suitable for usage with any 3D-printer or to send to on-line 3D printing services.
-There are free STL viewers available on-line if you want to view the proposed cases (
+The STL format is suitable for usage with any 3D-printer or to send to an on-line 3D printing service.
+There are free STL viewers available on-line if you want to view the proposed cases.
 
 The choice of wall thickness depends on the capabilities of the target 3D printer and on the required robustness and rigidity of the printed case.
 
 
-It is possible to use a wall thickness of 1mm to print this case using Sculteo's online 3D-printing services, in basic white plastic (it's nylon, actually). The result is slightly flexible and reasonably robust  (although but not fit to sustain severe stress).
+It is possible to use a wall thickness of 1mm to print this case using e.g. Sculpteo's online 3D-printing services, in basic white plastic (it's nylon, actually). The result is slightly flexible and reasonably robust (but not fit to sustain severe stress).
 I have also used 1mm to print in ABS on a professional machine from a local 3D-printing specialist.
 For DIY 3D-printers, 1.5 or 2mm thickness may be more appropriate.
