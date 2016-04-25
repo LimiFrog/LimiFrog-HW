@@ -5,10 +5,8 @@ Directory Contents :
   --> Overview of the main parts present on the board and their interconnections
 
 
-<COMING SOON>
-> LimiFrog_Schematic_Doc_0.2.a.pdf
+> LimiFrog_0.2a_SchematicDoc.pdf
   --> Full board schematic, provided under the Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA). 
       See ../Licenses.txt .
-      Should you wish to use it for commercial exploitation, please get in touch: xavier<_at_>limifrog.io
 
 

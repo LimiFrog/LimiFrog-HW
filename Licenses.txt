@@ -1,0 +1,34 @@
+HARDWARE LICENSING INFORMATION :
+================================
+
+The hardware documentation and files provided in this directory are licensed under the terms of :
+
+ the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
+ (CC BY-NC-SA 4.0)
+
+To view a copy of the license, visit the following URL: 
+  http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+A plain English description (which is not a substitute to the legal license text) is also available here:
+  http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Attribution to: CYMEYA/LimiFrog
+
+
+Should you wish to use these hardware files for commercial purposes,
+please contact:  xavier <_at_> limifrog.io
+
+
+
+IMPORTANT ADDITIONAL INFORMATION :
+=================================
+
+The LimiFrog board and full module are for prototyping purposes only and are not intended to be included in a final product. LimiFrog must never be used in any life sustaining device.
+
+ALL FILES AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  
+
+
+***********************
+
